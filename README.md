@@ -39,6 +39,8 @@ Key features:
 
 ### 2. Temporal Trends
 
+![trend-temporali](screenshots/trend-temporali.png)
+
 Explores revenue patterns over time to support sales planning and marketing decisions.
 
 Key features:
@@ -47,6 +49,8 @@ Key features:
 - Interactive filters to investigate specific periods and customer markets.
 
 ### 3. Geographical Distribution
+
+![distribuzione-geografica](screenshots/distribuzione-geografica.png)
 
 Examines sales performance and customer spending across continents and countries.
 
