@@ -26,6 +26,8 @@ The interactive report is organized into three main pages.
 
 ### 1. Product Performance
 
+![Product Performance](screenshots/performance-prodotti.png)
+
 Analyzes product sales and revenue to identify the bookstore's strongest performers.
 
 Key features:
