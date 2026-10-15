@@ -8,6 +8,7 @@ The goal is to analyze sales data from product, temporal, and geographical persp
 
 ## Tools & Technologies
 
+- **Python & Pandas:** Data cleaning.
 - **SQL (MySQL):** Data exploration and querying.
 - **Power BI:** Interactive dashboard development and data visualization.
 
