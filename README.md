@@ -1,4 +1,4 @@
-# Online Bookstore — Sales Analysis & Marketing Strategy
+# Online Bookstore: Sales Analysis & Marketing Strategy
 
 ## Project Overview
 
